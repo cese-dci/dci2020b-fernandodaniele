@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name MCU_Friend)(type Legacy)(uri D:/Escritorio/MCU_Friend.lib)(options "")(descr ""))
+  (lib (name Titulador-rescue)(type Legacy)(uri ${KIPRJMOD}/Titulador-rescue.lib)(options "")(descr ""))
 )

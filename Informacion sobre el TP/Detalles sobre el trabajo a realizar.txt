@@ -1,0 +1,4 @@
+Se agrega una imagen del esquempático actual como referencia del trabajo a realizar.
+El esquemático es a nivel exploratorio del trabajo final de la cese, con el objetivo de realizar un primer prototipo de manera "casera".
+El esquemático mostrado es de desarrollo propio, y las partes involucradas fueron probadas en protoboard.
+El objetivo del prototipo es elimanar el uso del protoboard y para poder seguir realizando pruebas, por ello se dejan conectores en los pines del ESP32 que no se utilizan por el momento.

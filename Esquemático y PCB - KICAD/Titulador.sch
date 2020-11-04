@@ -9,7 +9,7 @@ Date "2020-10-27"
 Rev "0.2"
 Comp "Fernando E. Daniele"
 Comment1 "Revisor: Diego Brengi"
-Comment2 "Licencia BSD"
+Comment2 "Licencia FreeBSD"
 Comment3 ""
 Comment4 ""
 $EndDescr
